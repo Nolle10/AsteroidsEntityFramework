@@ -1,0 +1,4 @@
+--patch-module
+DefaultPlayer=_
+--add-reads
+DefaultPlayer=ALL-UNNAMED

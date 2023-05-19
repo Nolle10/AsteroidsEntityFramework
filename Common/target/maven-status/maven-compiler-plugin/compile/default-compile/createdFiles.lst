@@ -1,0 +1,17 @@
+dk\sdu\stud\olsve21\common\util\SPILocator.class
+dk\sdu\stud\olsve21\common\data\Color.class
+dk\sdu\stud\olsve21\common\data\entityparts\PositionPart.class
+dk\sdu\stud\olsve21\common\services\IPostEntityProcessingService.class
+dk\sdu\stud\olsve21\common\services\IGamePluginService.class
+dk\sdu\stud\olsve21\common\data\Entity.class
+dk\sdu\stud\olsve21\common\data\GameData.class
+dk\sdu\stud\olsve21\common\data\GameKeys.class
+dk\sdu\stud\olsve21\common\events\Event.class
+dk\sdu\stud\olsve21\common\data\entityparts\ShootingPart.class
+dk\sdu\stud\olsve21\common\data\entityparts\LifePart.class
+dk\sdu\stud\olsve21\common\data\entityparts\MovingPart.class
+dk\sdu\stud\olsve21\common\data\World.class
+module-info.class
+dk\sdu\stud\olsve21\common\services\IEntityProcessingService.class
+dk\sdu\stud\olsve21\common\data\entityparts\EntityPart.class
+dk\sdu\stud\olsve21\common\services\IBulletCreator.class

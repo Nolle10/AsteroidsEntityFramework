@@ -1,0 +1,8 @@
+dk\sdu\stud\olsve21\managers\GameInputProcessor.class
+dk\sdu\stud\olsve21\components\IProcessor.class
+module-info.class
+dk\sdu\stud\olsve21\components\PostProcessInjection.class
+dk\sdu\stud\olsve21\components\PluginInjection.class
+dk\sdu\stud\olsve21\components\ProcessInjection.class
+dk\sdu\stud\olsve21\main\Main.class
+dk\sdu\stud\olsve21\main\Game.class
